@@ -1,7 +1,7 @@
 # Ring my Phone for Home Assistant
 
 this automation is intended to interact with HA using the notification service and it allows a mobile phone to ring within automations.
-It can be used to find the telephone or to interact with HA by sending sound alarms when it is not possible or it is not convenient to use a graphical interface.
+It can be used to find the device or to interact with HA by sending sound alarms when it is not possible or it is not convenient to use a graphical interface.
 
 ## How it works
 
