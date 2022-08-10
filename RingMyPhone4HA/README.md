@@ -10,6 +10,8 @@ the automation awaits a notice from ha with the title _RingMyPhone4HA_ and one o
 - **Single**: the phone will ring only once. This mode can be used to notify any commit action inside HA. You may use this mode to notify that a command was successfull.
 - **Cancel**: the behaviour of this mode is equivalent to _Single_ mode but it uses a different sound so it can be used to notify the user in a different way. For instance it can be used to notify that a command was not successful or cancelled.
 
+Any sound is played in the _Alarm Audio Stream_.
+
 ## Customizing
 to use this automation you should review the sounds file to be played for every mode according to your preferences.
 
