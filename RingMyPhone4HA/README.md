@@ -16,7 +16,7 @@ Any sound is played in the _Alarm Audio Stream_.
 to use this automation you should review the sounds file to be played for every mode according to your preferences.
 
 ## Authorizations
-this automation need for the following authorizations:
+this automation needs for the following authorizations:
 - access notifications and Do Not Disturb
 - ignore battery optimizations
 
