@@ -1,8 +1,8 @@
 # Ringtone management
 
-this automation mute the phone when wired headphones are plugged in and restores the previous settings when the jack is unlugged.
-it also mute/unmute the phone according to the actual space position of the phone. in particular the phone is mute when the phone is placed face down.
-you can enable/disable the automation by a dedicated tile.
+This automation mutes the phone when wired headphones are plugged in and restores the previous settings when the jack is unlugged.
+It also mutes/unmutes the phone according to the actual spatial position of the phone. In particular the phone is silent when it's placed face down.
+It's possible to enable/disable the automation though a dedicated tile.
 
 ## Authorizations
 this automation needs for the following authorizations:
