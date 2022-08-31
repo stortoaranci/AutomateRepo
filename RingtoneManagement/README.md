@@ -6,3 +6,6 @@ It's possible to enable/disable the automation though a dedicated tile.
 
 ## Authorizations
 this automation needs for the following authorizations:
+- Modify audio settings
+- Access Do Not Disturb settings
+- Ignore battery optimizations
