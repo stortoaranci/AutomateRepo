@@ -3,6 +3,8 @@
 This automation automatically disables Bluetooth, GPS and NFC devices if they are not used after a certain period of time.
 In particular, NFC turns off after a few seconds, Bluetooth goes offline if there are no devices that interact with the phone and finally the GPS turns off if the geolocation is not required by any of the applications identified by the user.
 
+A dedicated tile is used to enable/disable this automation.
+
 To setup the automation you have to modify the variables according to your needs:
 - __foregroundApps__: this is the list of the applications authorized to keep the GPS on. If the application that is actual in foreground is not in the list, then the GPS turns off. You have to specify the application in the extended form: _(ie:"com.google.android.apps.maps")_
 
